@@ -1,2 +1,5 @@
 # Personal_Projects
-A collection of some of the personal programming projects I have done.
+
+## Leo Kern, mleokern@gmail.com or leokern@utexas.edu
+
+## A collection of some of the personal programming projects I have done.
